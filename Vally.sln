@@ -1,0 +1,34 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{BEFB3F6D-B559-4890-842B-CAD17C682844}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vally", "Vally\Vally.vcxproj", "{117E2BD7-2103-4C61-A244-810F918A6A20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	
+		Release|x64 = Release|x64
+		
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{117E2BD7-2103-4C61-A244-810F918A6A20}.Debug|x64.ActiveCfg = Debug|x64
+		{117E2BD7-2103-4C61-A244-810F918A6A20}.Debug|x64.Build.0 = Debug|x64
+		
+		{117E2BD7-2103-4C61-A244-810F918A6A20}.Release|x64.ActiveCfg = Release|x64
+		{117E2BD7-2103-4C61-A244-810F918A6A20}.Release|x64.Build.0 = Release|x64
+		{BEFB3F6D-B559-4890-842B-CAD17C682844}.Debug|x64.ActiveCfg = Debug|x64
+		{BEFB3F6D-B559-4890-842B-CAD17C682844}.Debug|x64.Build.0 = Debug|x64
+		{BEFB3F6D-B559-4890-842B-CAD17C682844}.Release|x64.ActiveCfg = Release|x64
+		{BEFB3F6D-B559-4890-842B-CAD17C682844}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE8E2FF4-49AE-40DB-B164-68F4E6BC82BD}
+	EndGlobalSection
+EndGlobal
